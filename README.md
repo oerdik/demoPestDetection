@@ -1,0 +1,2 @@
+# demoPestDetection
+Nesne Algılama Çalışması
